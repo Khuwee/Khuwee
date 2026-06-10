@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Cybersecurity+Engineer+%7C+Red+Team+Operator;Network+Security+%7C+SOC+%7C+Threat+Detection;Active+Directory+Attack+Path+Research;SIEM+Migration+%7C+Enterprise+Deployments;CRTA+Candidate+%E2%80%94+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+%7C+Red+Team+Operator;Threat+Detection+%7C+SOC+Engineering;Active+Directory+Attack+Path+Research;MSSP+Security+Lab+Development;CRTA+Candidate+2026)](https://git.io/typing-svg)
 
 <br/>
 
