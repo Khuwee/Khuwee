@@ -198,22 +198,78 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 ## `>> DEPLOYMENT HISTORY`
 
-<div align="center">
+<br/>
 
-```
-  2025 — Present   Cybersecurity Officer · ROI · Gaborone, Botswana
-                   Security architecture · pre-sales · POC delivery
-                   Firewall & VPN deployment · tender documentation
+<table width="100%">
+<tr>
+<td width="18%" valign="top" align="right">
 
-  2023 — 2025      Junior SOC Consultant L1 · TechBulls · Gaborone
-                   Wazuh SIEM · threat detection · SIEM migration lead
-                   Deployment automation — 50%+ efficiency gain
+![2025–Present](https://img.shields.io/badge/2025_—_Present-00ff41?style=for-the-badge&labelColor=0d1117&color=0d1117)
 
-  2020             Assistant Network Technician · PermaNet · South Africa
-                   Ubiquiti deployments · RF alignment · tower climbs
-```
+</td>
+<td width="3%" valign="top" align="center">
 
-</div>
+`▍`
+
+</td>
+<td width="79%" valign="top">
+
+**Cybersecurity Officer** · ROI *(Blue Pearl Communications)* · Gaborone, Botswana 🇧🇼
+
+![Architecture](https://img.shields.io/badge/Security_Architecture-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=0d1117)
+![Pre-Sales](https://img.shields.io/badge/Pre--Sales-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![POC](https://img.shields.io/badge/POC_Delivery-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Firewall](https://img.shields.io/badge/Firewall_%26_VPN-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124&labelColor=0d1117)
+![Tenders](https://img.shields.io/badge/Tender_Documentation-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td width="18%" valign="top" align="right">
+
+![2023–2025](https://img.shields.io/badge/2023_—_2025-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117)
+
+</td>
+<td width="3%" valign="top" align="center">
+
+`▍`
+
+</td>
+<td width="79%" valign="top">
+
+**Junior SOC Consultant L1** · TechBulls · Gaborone, Botswana 🇧🇼
+
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-0d1117?style=flat-square&logoColor=00aaff&color=0d1117&labelColor=0d1117)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![SIEM Migration](https://img.shields.io/badge/SIEM_Migration_Lead-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Automation](https://img.shields.io/badge/Automation_50%25%2B_Gain-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td width="18%" valign="top" align="right">
+
+![2020](https://img.shields.io/badge/2020-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117)
+
+</td>
+<td width="3%" valign="top" align="center">
+
+`▍`
+
+</td>
+<td width="79%" valign="top">
+
+**Assistant Network Technician** · PermaNet · South Africa 🇿🇦
+
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti_Deployments-0d1117?style=flat-square&logo=ubiquiti&logoColor=0559C9&labelColor=0d1117)
+![RF](https://img.shields.io/badge/RF_Alignment-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Tower](https://img.shields.io/badge/Tower_Climbs-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
