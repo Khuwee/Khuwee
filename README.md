@@ -175,7 +175,7 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 <div align="center">
 
 ```
-![MSSP Security Lab](./mssp-lab-diagram.svg)
+![MSSP Security Lab](mssp-lab-diagram.svg)
 
 ```
 
