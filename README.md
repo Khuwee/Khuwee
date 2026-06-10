@@ -202,11 +202,6 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 </div>
 
-<div align="center">
-
-<img src="mssp-lab-diagram.svg" width="100%" />
-
-
 ---
 <div align="center">
 
