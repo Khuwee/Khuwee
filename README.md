@@ -200,94 +200,57 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 <br/>
 
-<table width="100%">
+<div align="center">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/2025_—_PRESENT-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41&logoColor=000000" />
+<br/><br/>
+<img src="https://img.shields.io/badge/CYBERSECURITY_OFFICER-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/ROI_·_Blue_Pearl_Communications-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<br/>
+<img src="https://img.shields.io/badge/📍_Gaborone,_Botswana-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<br/><br/>
 
-```
-ROLE
-─────────────────────────────
-Cybersecurity Officer
-
-ORGANISATION
-─────────────────────────────
-ROI · Blue Pearl Communications
-
-LOCATION
-─────────────────────────────
-Gaborone, Botswana 🇧🇼
-
-PERIOD
-─────────────────────────────
-2025 — Present  [ ACTIVE ]
-
-SCOPE
-─────────────────────────────
-Security architecture
-Pre-sales & POC delivery
-Firewall & VPN deployment
-Tender documentation
-```
+`Security Architecture` `Pre-Sales` `POC Delivery`
+`Firewall & VPN` `Tender Documentation`
 
 </td>
-<td width="33%" valign="top">
+<td width="1%" align="center"><img src="https://img.shields.io/badge/|-%20-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117"/></td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/2023_—_2025-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/JUNIOR_SOC_CONSULTANT_L1-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/TechBulls-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<br/>
+<img src="https://img.shields.io/badge/📍_Gaborone,_Botswana-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<br/><br/>
 
-```
-ROLE
-─────────────────────────────
-Junior SOC Consultant  [ L1 ]
-
-ORGANISATION
-─────────────────────────────
-TechBulls
-
-LOCATION
-─────────────────────────────
-Gaborone, Botswana 🇧🇼
-
-PERIOD
-─────────────────────────────
-2023 — 2025
-
-SCOPE
-─────────────────────────────
-Wazuh SIEM operations
-Threat detection
-SIEM migration lead
-Deployment automation
-50%+ efficiency gain
-```
+`Wazuh SIEM` `Threat Detection` `SIEM Migration Lead`
+`Deployment Automation` `50%+ Efficiency Gain`
 
 </td>
-<td width="33%" valign="top">
+<td width="1%" align="center"><img src="https://img.shields.io/badge/|-%20-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117"/></td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/2020-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/ASST._NETWORK_TECHNICIAN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br/>
+<img src="https://img.shields.io/badge/PermaNet-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<br/>
+<img src="https://img.shields.io/badge/📍_South_Africa-161b22?style=flat-square&labelColor=161b22&color=161b22" />
+<br/><br/>
 
-```
-ROLE
-─────────────────────────────
-Asst. Network Technician
-
-ORGANISATION
-─────────────────────────────
-PermaNet
-
-LOCATION
-─────────────────────────────
-South Africa 🇿🇦
-
-PERIOD
-─────────────────────────────
-2020
-
-SCOPE
-─────────────────────────────
-Ubiquiti deployments
-RF alignment
-Tower climbs
-```
+`Ubiquiti Deployments` `RF Alignment` `Tower Climbs`
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
