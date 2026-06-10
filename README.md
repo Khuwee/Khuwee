@@ -206,6 +206,15 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/FORTIGATE_DEPLOYMENTS-60+-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VPN_TUNNELS-25+-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORKS_DESIGNED-30+-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIEM_DEPLOYMENTS-10+-8B0000?style=for-the-badge"/>
+
+</div>
+
 ---
 <div align="center">
 
