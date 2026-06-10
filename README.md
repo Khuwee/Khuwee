@@ -177,7 +177,11 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 <br/>
 
-**[ IN PROGRESS ]**
+<div align="center">
+
+<img src="https://img.shields.io/badge/⫸_IN PROGRESS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 ![CRTA](https://img.shields.io/badge/CRTA-1a0000?style=for-the-badge&logo=target&logoColor=ff3333)&nbsp;![CyberWarFare Labs](https://img.shields.io/badge/CyberWarFare_Labs_·_ACTIVE_2026-ff3333?style=for-the-badge&logoColor=ffffff)
 
