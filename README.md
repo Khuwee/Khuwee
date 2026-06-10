@@ -206,11 +206,6 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 <img src="mssp-lab-diagram.svg" width="100%" />
 
-</div>
-
-> 🔗 [View Lab Repository →](https://github.com/Khuwe-RedReaper/mssp-lab)
-
-<br/>
 
 ---
 <div align="center">
