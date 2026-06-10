@@ -38,7 +38,11 @@ Currently building an **MSSP Security Lab** on Proxmox with FortiGate, Wazuh, Ac
 
 ---
 
-## `>> OPERATIONS`
+<div align="center">
+
+<img src="https://img.shields.io/badge/⫸_OPERATIONS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 > Key engagements and projects from the field.
 
