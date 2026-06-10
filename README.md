@@ -166,26 +166,6 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 </div>
 
-```
-Achieved ─────────────────────────────────────────────────────────────────────
-
-  NodeZero Solution Architecture      Horizon3.ai
-  Critical Infrastructure Protection
-  CloudGuard WAF Specialist           Check Point
-  Harmony Email Specialist            Check Point
-  Fortinet FCA & FCF                  Fortinet
-  Cisco CyberOps Associate            Cisco
-  OCI Generative AI Professional      Oracle
-  CCNA (ITN · SRWE · ENSA)           Cisco
-  NSE 1 & 2 Network Security         Fortinet
-
-In Progress ──────────────────────────────────────────────────────────────────
-
-  CRTA      Certified Red Team Analyst    CyberWarFare Labs    [ ACTIVE 2026 ]
-```
-
-</div>
-
 <br/>
 
 ---
