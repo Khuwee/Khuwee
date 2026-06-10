@@ -145,20 +145,26 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 <div align="center">
 
-![CRTA](https://img.shields.io/badge/CRTA-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=0d1117)
-![NodeZero](https://img.shields.io/badge/NodeZero_Arch-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![CIP](https://img.shields.io/badge/Critical_Infra_Protection-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![CloudGuard](https://img.shields.io/badge/CloudGuard_WAF_Specialist-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Harmony](https://img.shields.io/badge/Harmony_Email_Specialist-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![FCA](https://img.shields.io/badge/Fortinet_FCA-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![FCF](https://img.shields.io/badge/Fortinet_FCF-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![OCI](https://img.shields.io/badge/OCI_GenAI_Professional-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
-![CCNA](https://img.shields.io/badge/CCNA-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
+**[ ACHIEVED ]**
+
+![CCNA](https://img.shields.io/badge/CCNA_ITN·SRWE·ENSA-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![NSE](https://img.shields.io/badge/NSE_1_%26_2_Network_Security-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
+![FCA](https://img.shields.io/badge/Fortinet_FCA-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
+![FCF](https://img.shields.io/badge/Fortinet_FCF-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
+![OCI](https://img.shields.io/badge/OCI_GenAI_Professional-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
+![CloudGuard](https://img.shields.io/badge/CloudGuard_WAF_Specialist-0d1117?style=for-the-badge&logo=checkmarx&logoColor=00ff41)
+![Harmony](https://img.shields.io/badge/Harmony_Email_Specialist-0d1117?style=for-the-badge&logo=checkmarx&logoColor=00ff41)
+![NodeZero](https://img.shields.io/badge/NodeZero_Solution_Architecture-0d1117?style=for-the-badge&logo=hackaday&logoColor=00ff41)
+![CIP](https://img.shields.io/badge/Critical_Infrastructure_Protection-0d1117?style=for-the-badge&logoColor=00ff41)
+
+<br/>
+
+**[ IN PROGRESS ]**
+
+![CRTA](https://img.shields.io/badge/CRTA-1a0000?style=for-the-badge&logo=target&logoColor=ff3333)&nbsp;![CyberWarFare Labs](https://img.shields.io/badge/CyberWarFare_Labs_·_ACTIVE_2026-ff3333?style=for-the-badge&logoColor=ffffff)
 
 </div>
-
-<div align="center">
 
 ```
 Achieved ─────────────────────────────────────────────────────────────────────
