@@ -175,17 +175,8 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 <div align="center">
 
 ```
-  📡  MSSP Security Lab — Active Build
-  ─────────────────────────────────────────────────────
-  Proxmox VE Hypervisor        ✔  Operational
-  Windows Server 2022 / AD     ✔  Operational
-  Wazuh SIEM (Ubuntu 22.04)    ✔  Operational
-  Kali Linux — Attack VM       ✔  Operational
-  Tailscale VPN                ✔  Active
-  FortiGate 60F Firewall       ⚠  Pending NFR License
-  VLAN Segmentation            ⚠  Pending FortiGate
-  NodeZero — Autonomous Pentest    [ Planned ]
-  Securden PAM                     [ Planned ]
+<img width="1360" height="1040" alt="image" src="https://github.com/user-attachments/assets/6b479c1a-29c6-4445-afc7-5d90225042ec" />
+
 ```
 
 </div>
@@ -273,3 +264,9 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer" width="100%"/>
 </div>
+
+
+
+
+
+
