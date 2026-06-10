@@ -1,0 +1,85 @@
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+
+  <!-- Background -->
+  <rect width="800" height="520" rx="16" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="400" y="36" text-anchor="middle" font-size="16" font-weight="600" fill="#e6edf3">📡 MSSP Security Lab — Active Build</text>
+
+  <!-- Operational legend -->
+  <circle cx="718" cy="62" r="6" fill="#1D9E75"/>
+  <text x="730" y="67" font-size="12" fill="#8b949e">Operational</text>
+
+  <!-- Internet box -->
+  <rect x="30" y="50" width="120" height="56" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="90" y="74" text-anchor="middle" font-size="13" font-weight="600" fill="#c9d1d9">Internet</text>
+  <text x="90" y="93" text-anchor="middle" font-size="11" fill="#8b949e">Upstream</text>
+
+  <!-- Arrow: Internet → FortiGate -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#444c56" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <line x1="150" y1="78" x2="208" y2="78" stroke="#444c56" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- FortiGate 60F (amber) -->
+  <rect x="210" y="50" width="190" height="56" rx="8" fill="#2d1f00" stroke="#d29922" stroke-width="0.5"/>
+  <text x="305" y="74" text-anchor="middle" font-size="13" font-weight="600" fill="#e3b341">FortiGate 60F</text>
+  <text x="305" y="93" text-anchor="middle" font-size="11" fill="#bb8009">⚠ Pending NFR License</text>
+
+  <!-- Arrow: FortiGate → Tailscale -->
+  <line x1="400" y1="78" x2="458" y2="78" stroke="#444c56" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Tailscale VPN (teal) -->
+  <rect x="460" y="50" width="190" height="56" rx="8" fill="#001f17" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="555" y="74" text-anchor="middle" font-size="13" font-weight="600" fill="#3fb950">Tailscale VPN</text>
+  <text x="555" y="93" text-anchor="middle" font-size="11" fill="#1D9E75">✓ Active</text>
+
+  <!-- Proxmox container -->
+  <rect x="22" y="130" width="756" height="360" rx="14" fill="none" stroke="#30363d" stroke-width="0.5" stroke-dasharray="6 4"/>
+  <text x="40" y="152" font-size="11" fill="#484f58">Proxmox VE Hypervisor  ✓ Operational</text>
+
+  <!-- Drop lines from FortiGate and Tailscale into Proxmox -->
+  <line x1="305" y1="106" x2="305" y2="130" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <line x1="555" y1="106" x2="555" y2="130" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4 3"/>
+
+  <!-- Row 1: Windows Server -->
+  <rect x="42" y="168" width="210" height="64" rx="8" fill="#001f17" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="147" y="192" text-anchor="middle" font-size="13" font-weight="600" fill="#3fb950">Windows Server 2022</text>
+  <text x="147" y="211" text-anchor="middle" font-size="11" fill="#1D9E75">✓ Active Directory</text>
+
+  <!-- Row 1: Wazuh SIEM -->
+  <rect x="295" y="168" width="210" height="64" rx="8" fill="#001f17" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="400" y="192" text-anchor="middle" font-size="13" font-weight="600" fill="#3fb950">Wazuh SIEM</text>
+  <text x="400" y="211" text-anchor="middle" font-size="11" fill="#1D9E75">✓ Ubuntu 22.04</text>
+
+  <!-- Row 1: Kali Linux -->
+  <rect x="548" y="168" width="210" height="64" rx="8" fill="#001f17" stroke="#1D9E75" stroke-width="0.5"/>
+  <text x="653" y="192" text-anchor="middle" font-size="13" font-weight="600" fill="#3fb950">Kali Linux</text>
+  <text x="653" y="211" text-anchor="middle" font-size="11" fill="#1D9E75">✓ Attack VM</text>
+
+  <!-- Connectors row 1 → row 2 -->
+  <line x1="147" y1="232" x2="147" y2="282" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <line x1="400" y1="232" x2="400" y2="282" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4 3"/>
+  <line x1="653" y1="232" x2="653" y2="282" stroke="#30363d" stroke-width="0.5" stroke-dasharray="4 3"/>
+
+  <!-- Row 2: VLAN Segmentation (amber) -->
+  <rect x="42" y="282" width="210" height="64" rx="8" fill="#2d1f00" stroke="#d29922" stroke-width="0.5"/>
+  <text x="147" y="306" text-anchor="middle" font-size="13" font-weight="600" fill="#e3b341">VLAN Segmentation</text>
+  <text x="147" y="325" text-anchor="middle" font-size="11" fill="#bb8009">⚠ Pending FortiGate</text>
+
+  <!-- Row 2: NodeZero (gray) -->
+  <rect x="295" y="282" width="210" height="64" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="400" y="306" text-anchor="middle" font-size="13" font-weight="600" fill="#c9d1d9">NodeZero</text>
+  <text x="400" y="325" text-anchor="middle" font-size="11" fill="#8b949e">[ Autonomous Pentest ]</text>
+
+  <!-- Row 2: Securden PAM (gray) -->
+  <rect x="548" y="282" width="210" height="64" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="653" y="306" text-anchor="middle" font-size="13" font-weight="600" fill="#c9d1d9">Securden PAM</text>
+  <text x="653" y="325" text-anchor="middle" font-size="11" fill="#8b949e">[ Planned ]</text>
+
+  <!-- Footer -->
+  <text x="400" y="500" text-anchor="middle" font-size="11" fill="#484f58">github.com/Khuwe-RedReaper/mssp-lab</text>
+
+</svg>
