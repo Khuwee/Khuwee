@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WHOAMI-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⫸_WHOAMI-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
 
 </div>
 
