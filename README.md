@@ -1,120 +1,129 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1200&color=00FF41&center=true&vCenter=true&width=640&lines=root%40khuwe%3A~%24+whoami;Cybersecurity+Engineer+%7C+Red+Team+Operator;Network+Security+%7C+SOC+%7C+Threat+Detection;Active+Directory+Attack+Path+Research;SIEM+Migration+%7C+Enterprise+Deployments;CRTA+Candidate+%E2%80%94+2026)](https://git.io/typing-svg)
-
+  <img src="https://raw.githubusercontent.com/alisalive/alisalive/refs/heads/main/robottt.gif" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  OPERATOR   :  Onalethata Lesley Khuwe                              │
-│  CALLSIGN   :  Khuwe-RedReaper                                      │
-│  LOCATION   :  Gaborone, Botswana  🇧🇼                              │
-│  STATUS     :  [ ACTIVE ]  Cybersecurity Officer @ ROI              │
-│  OBJECTIVE  :  [ IN PROGRESS ]  CRTA Certification — 2026          │
-└─────────────────────────────────────────────────────────────────────┘
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Cybersecurity+Engineer+%7C+Red+Team+Operator;Network+Security+%7C+SOC+%7C+Threat+Detection;Active+Directory+Attack+Path+Research;SIEM+Migration+%7C+Enterprise+Deployments;CRTA+Candidate+%E2%80%94+2026)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Khuwe-RedReaper&style=flat-square&label=profile+views&labelColor=0d1117&color=00ff41"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Khuwe-RedReaper?style=flat-square&labelColor=0d1117&color=00ff41&logo=github&label=followers"/>
 
 </div>
+
+<br/>
 
 ---
 
 ## `>> WHOAMI`
 
-I'm a **Cybersecurity Engineer and Red Team Operator** with 5+ years across network engineering, security operations, and offensive security. I design secure infrastructure, run SOC operations, and advance red team tradecraft in hands-on lab environments.
+I'm **Onalethata Lesley Khuwe** — a Cybersecurity Engineer and Red Team Operator based in **Gaborone, Botswana** 🇧🇼.
 
-Currently building an **MSSP Security Lab** on Proxmox — FortiGate, Wazuh SIEM, Active Directory, and Kali Linux — simulating real-world attack and detection scenarios end to end.
+I work across network engineering, security operations, and offensive security — designing secure infrastructure, running SOC operations, and advancing into red team tradecraft. My background spans enterprise firewall and VPN deployment, SIEM engineering, technical pre-sales, and hands-on lab research.
+
+Currently building an **MSSP Security Lab** on Proxmox with FortiGate, Wazuh, Active Directory, and Kali — simulating real-world attack and detection scenarios end to end.
 
 > *"Securing the digital frontier, one exploit at a time."*
 
----
-
-## `>> FIELD METRICS`
-
-<div align="center">
-
-| `5+` | `12+` | `50%+` | `ENT` |
-|:---:|:---:|:---:|:---:|
-| Years in Field | Certifications | Onboarding Time Cut | Enterprise Deployments |
-
-</div>
+<br/>
 
 ---
 
 ## `>> OPERATIONS`
 
-```
-// OP-01 · BLUE TEAM ─────────────────────────────────────────────────
-  Wazuh SIEM Migration
-  Led migration from cloud-hosted Wazuh to on-premises infrastructure.
-  Improved detection visibility, reduced operational costs.
+> Key engagements and projects from the field.
 
-// OP-02 · AUTOMATION ─────────────────────────────────────────────────
-  Onboarding Automation
-  Deployment automation workflows — 50%+ reduction in manual onboarding.
-  Standardised client reporting templates across SOC.
+<br/>
 
-// OP-03 · ARCHITECTURE ───────────────────────────────────────────────
-  Enterprise Security Design
-  Firewall configs, VPN architecture, network diagrams, BoMs, tenders.
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
 
-// OP-04 · RED TEAM LAB ───────────────────────────────────────────────
-  Active Directory Attack Path Research
-  BloodHound enumeration, Kerberoasting, MITRE ATT&CK technique mapping.
+**SIEM Migration**
 
-// OP-05 · PRE-SALES ──────────────────────────────────────────────────
-  Technical POC Delivery
-  Live demos and solution sizing for enterprise cybersecurity platforms.
+Led full migration of Wazuh SIEM from cloud-hosted to on-premises infrastructure. Improved detection visibility and reduced operational costs across monitored endpoints.
 
-// OP-06 · WIRELESS ───────────────────────────────────────────────────
-  ISP Infrastructure Expansion
-  Ubiquiti deployments, P2P link alignment, tower climbs — South Africa.
-```
+`Wazuh` `Ubuntu` `On-Prem` `Blue Team`
+
+</td>
+<td width="25%" valign="top">
+
+**Onboarding Automation**
+
+Developed deployment automation workflows cutting manual onboarding time by **50%+**. Standardised client reporting templates across the SOC.
+
+`Automation` `Scripting` `SOC` `Efficiency`
+
+</td>
+<td width="25%" valign="top">
+
+**Enterprise Security Design**
+
+Designed end-to-end enterprise security solutions including firewall configs, VPN architecture, network diagrams, BoMs, and full tender proposals.
+
+`FortiGate` `VPN` `Architecture` `Pre-Sales`
+
+</td>
+<td width="25%" valign="top">
+
+**AD Attack Path Research**
+
+BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MITRE ATT&CK technique mapping in an isolated lab environment.
+
+`BloodHound` `Kerberoasting` `ATT&CK` `Red Team`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
 ## `>> ARSENAL`
+
+<div align="center">
 
 **[ NETWORK ENGINEERING ]**
 
 ![FortiGate](https://img.shields.io/badge/FortiGate-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
 ![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0d1117?style=flat-square&logo=ubiquiti&logoColor=0559C9)
-![VLANs](https://img.shields.io/badge/VLANs-0d1117?style=flat-square&color=0d1117&labelColor=0d1117&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIHZpZXdCb3g9IjAgMCAxMCAxMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1IiBjeT0iNSIgcj0iNSIgZmlsbD0iIzAwZmY0MSIvPjwvc3ZnPg==)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![VLANs](https://img.shields.io/badge/VLANs-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=0d1117)
 ![VPN](https://img.shields.io/badge/VPN-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
 ![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
 ![NAT/ACL](https://img.shields.io/badge/NAT%2FACL-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
 
+<br/>
+
 **[ SECURITY OPERATIONS ]**
 
-![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-0d1117?style=flat-square&logoColor=00aaff&color=0d1117&labelColor=0d1117)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
 ![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![SIEM Migration](https://img.shields.io/badge/SIEM_Migration-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+
+<br/>
 
 **[ RED TEAM / OFFENSIVE ]**
 
 ![BloodHound](https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logo=graphql&logoColor=f85149)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Kerberoasting](https://img.shields.io/badge/Kerberoasting-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![AD Enumeration](https://img.shields.io/badge/AD_Enumeration-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&logoColor=f85149&color=0d1117&labelColor=0d1117)
+![AD Enumeration](https://img.shields.io/badge/AD_Enumeration-0d1117?style=flat-square&logoColor=f85149&color=0d1117&labelColor=0d1117)
+![Kerberoasting](https://img.shields.io/badge/Kerberoasting-0d1117?style=flat-square&logoColor=f85149&color=0d1117&labelColor=0d1117)
 ![Attack Path Analysis](https://img.shields.io/badge/Attack_Path_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+
+<br/>
 
 **[ PLATFORMS & TOOLS ]**
 
@@ -126,29 +135,30 @@ Currently building an **MSSP Security Lab** on Proxmox — FortiGate, Wazuh SIEM
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
 ![Tailscale](https://img.shields.io/badge/Tailscale-0d1117?style=flat-square&logo=tailscale&logoColor=5A9BDB)
 
----
+</div>
 
-## `>> CURRENT LAB`
-
-```
-  📡  MSSP Security Lab — Active Build
-  ──────────────────────────────────────────────────────────────────
-  Proxmox VE Hypervisor          ████████████████████  ✔  Operational
-  Windows Server 2022 / AD       ████████████████████  ✔  Operational
-  Wazuh SIEM  (Ubuntu 22.04)     ████████████████████  ✔  Operational
-  Kali Linux — Attack VM         ████████████████████  ✔  Operational
-  Tailscale VPN                  ████████████████████  ✔  Active
-  FortiGate 60F Firewall         ████████████░░░░░░░░  ⚠  Pending NFR License
-  VLAN Segmentation              ██████░░░░░░░░░░░░░░  ⚠  Pending FortiGate
-  NodeZero — Autonomous Pentest  ░░░░░░░░░░░░░░░░░░░░  ○  Planned
-  Securden PAM                   ░░░░░░░░░░░░░░░░░░░░  ○  Planned
-```
-
-> 🔗 [View Lab Repository →](https://github.com/Khuwe-RedReaper/mssp-lab)
+<br/>
 
 ---
 
 ## `>> CERTIFICATIONS`
+
+<div align="center">
+
+![CRTA](https://img.shields.io/badge/CRTA-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=0d1117)
+![NodeZero](https://img.shields.io/badge/NodeZero_Arch-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![CIP](https://img.shields.io/badge/Critical_Infra_Protection-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![CloudGuard](https://img.shields.io/badge/CloudGuard_WAF_Specialist-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![Harmony](https://img.shields.io/badge/Harmony_Email_Specialist-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
+![FCA](https://img.shields.io/badge/Fortinet_FCA-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
+![FCF](https://img.shields.io/badge/Fortinet_FCF-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
+![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![OCI](https://img.shields.io/badge/OCI_GenAI_Professional-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
+![CCNA](https://img.shields.io/badge/CCNA-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
+
+</div>
+
+<div align="center">
 
 ```
 Achieved ─────────────────────────────────────────────────────────────────────
@@ -160,7 +170,7 @@ Achieved ───────────────────────�
   Fortinet FCA & FCF                  Fortinet
   Cisco CyberOps Associate            Cisco
   OCI Generative AI Professional      Oracle
-  CCNA  (ITN · SRWE · ENSA)          Cisco
+  CCNA (ITN · SRWE · ENSA)           Cisco
   NSE 1 & 2 Network Security         Fortinet
 
 In Progress ──────────────────────────────────────────────────────────────────
@@ -168,9 +178,41 @@ In Progress ──────────────────────�
   CRTA      Certified Red Team Analyst    CyberWarFare Labs    [ ACTIVE 2026 ]
 ```
 
+</div>
+
+<br/>
+
+---
+
+## `>> CURRENT LAB`
+
+<div align="center">
+
+```
+  📡  MSSP Security Lab — Active Build
+  ─────────────────────────────────────────────────────
+  Proxmox VE Hypervisor        ✔  Operational
+  Windows Server 2022 / AD     ✔  Operational
+  Wazuh SIEM (Ubuntu 22.04)    ✔  Operational
+  Kali Linux — Attack VM       ✔  Operational
+  Tailscale VPN                ✔  Active
+  FortiGate 60F Firewall       ⚠  Pending NFR License
+  VLAN Segmentation            ⚠  Pending FortiGate
+  NodeZero — Autonomous Pentest    [ Planned ]
+  Securden PAM                     [ Planned ]
+```
+
+</div>
+
+> 🔗 [View Lab Repository →](https://github.com/Khuwe-RedReaper/mssp-lab)
+
+<br/>
+
 ---
 
 ## `>> DEPLOYMENT HISTORY`
+
+<div align="center">
 
 ```
   2025 — Present   Cybersecurity Officer · ROI · Gaborone, Botswana
@@ -185,23 +227,9 @@ In Progress ──────────────────────�
                    Ubiquiti deployments · RF alignment · tower climbs
 ```
 
----
-
-## `>> GITHUB STATS`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khuwe-RedReaper&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=89c99a&rank_icon=github)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khuwe-RedReaper&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=89c99a)
-
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Khuwe-RedReaper&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=89c99a&dates=4a7a5a&currStreakNum=e0ffe0&sideNums=e0ffe0)
-
-</div>
+<br/>
 
 ---
 
@@ -209,22 +237,16 @@ In Progress ──────────────────────�
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-khuwe--redreaper.github.io-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://khuwe-redreaper.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khuwe--redreaper.github.io-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://khuwe-redreaper.github.io)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/onalethata-lesley-khuwe-203614223)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/onalethata-lesley-khuwe-203614223)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=yahoo&logoColor=6001D2)](mailto:khuwelesley@yahoo.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Khuwe-RedReaper&style=flat-square&label=profile+views&labelColor=0d1117&color=00ff41)
-&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/Khuwe-RedReaper?style=flat-square&labelColor=0d1117&color=00ff41&logo=github&label=followers)
+[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=yahoo&logoColor=6001D2)](mailto:khuwelesley@yahoo.com)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer" width="100%"/>
 </div>
