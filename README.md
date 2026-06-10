@@ -93,7 +93,11 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 ---
 
-## `>> ARSENAL`
+<div align="center">
+
+<img src="https://img.shields.io/badge/⫸_ARSENAL-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 <div align="center">
 
@@ -149,7 +153,11 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 ---
 
-## `>> CERTIFICATIONS`
+<div align="center">
+
+<img src="https://img.shields.io/badge/⫸_CERTIFICATIONS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 <div align="center">
 
@@ -177,8 +185,11 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 <br/>
 
 ---
+<div align="center">
 
-## `>> CURRENT LAB`
+<img src="https://img.shields.io/badge/⫸_ACTIVE_OPERATION%3A_MSSP_LAB-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 <div align="center">
 
@@ -191,8 +202,11 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 <br/>
 
 ---
+<div align="center">
 
-## `>> DEPLOYMENT HISTORY`
+<img src="https://img.shields.io/badge/⫸_DEPLOYMENT_HISTORY-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 <br/>
 
@@ -252,7 +266,11 @@ BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MIT
 
 ---
 
-## `>> CONNECT`
+<div align="center">
+
+<img src="https://img.shields.io/badge/⫸_CONTACT_VECTORS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
+
+</div>
 
 <div align="center">
 
