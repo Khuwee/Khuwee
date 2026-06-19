@@ -1,314 +1,380 @@
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alisalive/alisalive/refs/heads/main/robottt.gif" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer+%7C+Red+Team+Operator;Threat+Detection+%7C+SOC+Engineering;Active+Directory+Attack+Path+Research;MSSP+Security+Lab+Development;CRTA+Candidate+2026)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Khuwe-RedReaper&style=flat-square&label=profile+views&labelColor=0d1117&color=00ff41"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Khuwe-RedReaper?style=flat-square&labelColor=0d1117&color=00ff41&logo=github&label=followers"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_WHOAMI-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-
-I'm **Onalethata Lesley Khuwe** — a Cybersecurity Engineer and Red Team Operator based in **Gaborone, Botswana** 🇧🇼.
-
-I work across network engineering, security operations, and offensive security — designing secure infrastructure, running SOC operations, and advancing into red team tradecraft. My background spans enterprise firewall and VPN deployment, SIEM engineering, technical pre-sales, and hands-on lab research.
-
-Currently building an **MSSP Security Lab** on Proxmox with FortiGate, Wazuh, Active Directory, and Kali — simulating real-world attack and detection scenarios end to end.
-
-> *"Securing the digital frontier, one exploit at a time."*
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_OPERATIONS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-> Key engagements and projects from the field.
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
-
-**SIEM Migration**
-
-Led full migration of Wazuh SIEM from cloud-hosted to on-premises infrastructure. Improved detection visibility and reduced operational costs across monitored endpoints.
-
-`Wazuh` `Ubuntu` `On-Prem` `Blue Team`
-
-</td>
-<td width="25%" valign="top">
-
-**Onboarding Automation**
-
-Developed deployment automation workflows cutting manual onboarding time by **50%+**. Standardised client reporting templates across the SOC.
-
-`Automation` `Scripting` `SOC` `Efficiency`
-
-</td>
-<td width="25%" valign="top">
-
-**Enterprise Security Design**
-
-Designed end-to-end enterprise security solutions including firewall configs, VPN architecture, network diagrams, BoMs, and full tender proposals.
-
-`FortiGate` `VPN` `Architecture` `Pre-Sales`
-
-</td>
-<td width="25%" valign="top">
-
-**AD Attack Path Research**
-
-BloodHound enumeration, Kerberoasting simulation, attack path discovery, and MITRE ATT&CK technique mapping in an isolated lab environment.
-
-`BloodHound` `Kerberoasting` `ATT&CK` `Red Team`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_ARSENAL-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-<div align="center">
-
-**[ NETWORK ENGINEERING ]**
-
-![FortiGate](https://img.shields.io/badge/FortiGate-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-0d1117?style=flat-square&logo=cisco&logoColor=1BA0D7)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0d1117?style=flat-square&logo=ubiquiti&logoColor=0559C9)
-![VLANs](https://img.shields.io/badge/VLANs-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=0d1117)
-![VPN](https://img.shields.io/badge/VPN-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![NAT/ACL](https://img.shields.io/badge/NAT%2FACL-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-
-<br/>
-
-**[ SECURITY OPERATIONS ]**
-
-![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-0d1117?style=flat-square&logoColor=00aaff&color=0d1117&labelColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-
-<br/>
-
-**[ RED TEAM / OFFENSIVE ]**
-
-![BloodHound](https://img.shields.io/badge/BloodHound-0d1117?style=flat-square&logo=graphql&logoColor=f85149)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=557C94)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&logoColor=f85149&color=0d1117&labelColor=0d1117)
-![AD Enumeration](https://img.shields.io/badge/AD_Enumeration-0d1117?style=flat-square&logoColor=f85149&color=0d1117&labelColor=0d1117)
-![Kerberoasting](https://img.shields.io/badge/Kerberoasting-0d1117?style=flat-square&logoColor=f85149&color=0d1117&labelColor=0d1117)
-![Attack Path Analysis](https://img.shields.io/badge/Attack_Path_Analysis-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-
-<br/>
-
-**[ PLATFORMS & TOOLS ]**
-
-![FortiDLP](https://img.shields.io/badge/FortiDLP-0d1117?style=flat-square&logo=fortinet&logoColor=EE3124)
-![NodeZero](https://img.shields.io/badge/NodeZero-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![CloudGuard WAF](https://img.shields.io/badge/CloudGuard_WAF-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Check Point](https://img.shields.io/badge/Check_Point-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)
-![Proxmox](https://img.shields.io/badge/Proxmox-0d1117?style=flat-square&logo=proxmox&logoColor=E57000)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
-![Tailscale](https://img.shields.io/badge/Tailscale-0d1117?style=flat-square&logo=tailscale&logoColor=5A9BDB)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_CERTIFICATIONS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-<div align="center">
-
-**[ ACHIEVED ]**
-
-![CCNA](https://img.shields.io/badge/CCNA_ITN·SRWE·ENSA-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![CyberOps](https://img.shields.io/badge/Cisco_CyberOps_Associate-0d1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![NSE](https://img.shields.io/badge/NSE_1_%26_2_Network_Security-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
-![FCA](https://img.shields.io/badge/Fortinet_FCA-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
-![FCF](https://img.shields.io/badge/Fortinet_FCF-0d1117?style=for-the-badge&logo=fortinet&logoColor=EE3124)
-![OCI](https://img.shields.io/badge/OCI_GenAI_Professional-0d1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![CloudGuard](https://img.shields.io/badge/CloudGuard_WAF_Specialist-0d1117?style=for-the-badge&logo=checkmarx&logoColor=00ff41)
-![Harmony](https://img.shields.io/badge/Harmony_Email_Specialist-0d1117?style=for-the-badge&logo=checkmarx&logoColor=00ff41)
-![NodeZero](https://img.shields.io/badge/NodeZero_Solution_Architecture-0d1117?style=for-the-badge&logo=hackaday&logoColor=00ff41)
-![CIP](https://img.shields.io/badge/Critical_Infrastructure_Protection-0d1117?style=for-the-badge&logoColor=00ff41)
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_IN PROGRESS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-![CRTA](https://img.shields.io/badge/CRTA-1a0000?style=for-the-badge&logo=target&logoColor=ff3333)&nbsp;![CyberWarFare Labs](https://img.shields.io/badge/CyberWarFare_Labs_·_ACTIVE_2026-ff3333?style=for-the-badge&logoColor=ffffff)
-
-</div>
-
-<br/>
-
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_ACTIVE_OPERATION%3A_MSSP_LAB-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LIVE_ENVIRONMENT-MSSP_SECURITY_LAB-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-<br/><br/>
-
-<img src="mssp-lab-diagram.svg" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FORTIGATE_DEPLOYMENTS-60+-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VPN_TUNNELS-25+-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NETWORKS_DESIGNED-30+-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SIEM_DEPLOYMENTS-10+-8B0000?style=for-the-badge"/>
-
-</div>
-
----
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_DEPLOYMENT_HISTORY-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/2025_—_PRESENT-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41&logoColor=000000" />
-<br/><br/>
-<img src="https://img.shields.io/badge/CYBERSECURITY_OFFICER-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/>
-<img src="https://img.shields.io/badge/ROI_·_Blue_Pearl_Communications-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-<br/>
-<img src="https://img.shields.io/badge/📍_Gaborone,_Botswana-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-<br/><br/>
-
-`Security Architecture` `Pre-Sales` `POC Delivery`
-`Firewall & VPN` `Tender Documentation`
-
-</td>
-<td width="1%" align="center"><img src="https://img.shields.io/badge/|-%20-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117"/></td>
-<td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/2023_—_2025-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/><br/>
-<img src="https://img.shields.io/badge/JUNIOR_SOC_CONSULTANT_L1-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/>
-<img src="https://img.shields.io/badge/TechBulls-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-<br/>
-<img src="https://img.shields.io/badge/📍_Gaborone,_Botswana-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-<br/><br/>
-
-`Wazuh SIEM` `Threat Detection` `SIEM Migration Lead`
-`Deployment Automation` `50%+ Efficiency Gain`
-
-</td>
-<td width="1%" align="center"><img src="https://img.shields.io/badge/|-%20-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117"/></td>
-<td width="33%" valign="top" align="center">
-<img src="https://img.shields.io/badge/2020-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/><br/>
-<img src="https://img.shields.io/badge/ASST._NETWORK_TECHNICIAN-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br/>
-<img src="https://img.shields.io/badge/PermaNet-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-<br/>
-<img src="https://img.shields.io/badge/📍_South_Africa-161b22?style=flat-square&labelColor=161b22&color=161b22" />
-<br/><br/>
-
-`Ubiquiti Deployments` `RF Alignment` `Tower Climbs`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/⫸_CONTACT_VECTORS-8B0000?style=for-the-badge&labelColor=0d1117&color=8B0000"/>
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-khuwe--redreaper.github.io-0d1117?style=flat-square&logo=github&logoColor=00ff41)](https://khuwe-redreaper.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/onalethata-lesley-khuwe-203614223)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=yahoo&logoColor=6001D2)](mailto:khuwelesley@yahoo.com)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer" width="100%"/>
-</div>
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Khuwe RedReaper — GitHub Profile</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:      #39ff14;
+      --green-dim:  #1a7a0a;
+      --bg:         #0d1117;
+      --surface:    #161b22;
+      --surface2:   #21262d;
+      --border:     #30363d;
+      --text:       #e6edf3;
+      --muted:      #8b949e;
+      --red:        #ff5555;
+      --amber:      #f0883e;
+      --blue:       #58a6ff;
+      --purple:     #bc8cff;
+    }
+
+    html, body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 14px;
+      line-height: 1.65;
+      min-height: 100vh;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      padding: 40px 16px 60px;
+    }
+
+    .readme {
+      width: 100%;
+      max-width: 860px;
+    }
+
+    /* ── Terminal window ─────────────────────────────── */
+    .terminal {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      margin-bottom: 20px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+    }
+
+    .terminal-bar {
+      background: var(--surface2);
+      padding: 11px 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+    .dot-r { background: #ff5f57; }
+    .dot-y { background: #febc2e; }
+    .dot-g { background: #28c840; }
+
+    .bar-title {
+      flex: 1;
+      text-align: center;
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+
+    .terminal-body { padding: 24px 28px 28px; }
+
+    /* ── ASCII header ────────────────────────────────── */
+    .ascii {
+      font-size: 10px;
+      line-height: 1.25;
+      color: var(--green);
+      margin-bottom: 22px;
+      white-space: pre;
+      overflow-x: auto;
+      text-shadow: 0 0 8px rgba(57,255,20,0.35);
+    }
+
+    /* ── Prompt line ─────────────────────────────────── */
+    .prompt-line {
+      display: flex;
+      align-items: baseline;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin-bottom: 6px;
+      font-size: 13px;
+    }
+
+    .pu { color: var(--blue); }
+    .ph { color: var(--purple); }
+    .pp { color: var(--amber); }
+    .pm { color: var(--muted); }
+    .pc { color: var(--text); }
+
+    /* ── Output block ────────────────────────────────── */
+    .output {
+      margin: 6px 0 20px;
+      padding: 14px 18px;
+      background: rgba(0,0,0,0.28);
+      border-left: 2px solid var(--green-dim);
+      border-radius: 0 6px 6px 0;
+    }
+
+    .out-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 8px;
+      font-size: 13px;
+    }
+    .out-row:last-child { margin-bottom: 0; }
+
+    .out-icon { min-width: 18px; font-size: 15px; }
+    .out-val  { color: var(--text); }
+    .out-val a { color: var(--blue); text-decoration: none; }
+    .out-val a:hover { text-decoration: underline; }
+
+    .g  { color: var(--green);  }
+    .a  { color: var(--amber);  }
+    .b  { color: var(--blue);   }
+    .p  { color: var(--purple); }
+    .r  { color: var(--red);    }
+
+    /* ── Divider ─────────────────────────────────────── */
+    hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 20px 0;
+    }
+
+    /* ── Skills grid ─────────────────────────────────── */
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
+      gap: 12px;
+      margin: 10px 0;
+    }
+
+    .skill-block {
+      background: rgba(0,0,0,0.22);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 12px 14px;
+    }
+
+    .skill-cat {
+      font-size: 10px;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      margin-bottom: 9px;
+    }
+
+    .tags { display: flex; flex-wrap: wrap; gap: 5px; }
+
+    .tag {
+      font-size: 10px;
+      padding: 2px 7px;
+      border-radius: 4px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+
+    .tag-g { color: var(--green);  border-color: var(--green-dim); }
+    .tag-b { color: var(--blue);   border-color: #1f6feb; }
+    .tag-a { color: var(--amber);  border-color: #7d4e1a; }
+    .tag-p { color: var(--purple); border-color: #553098; }
+
+    /* ── Social links ────────────────────────────────── */
+    .socials {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .social {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 6px 14px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 12px;
+      color: var(--muted);
+      transition: border-color 0.18s, color 0.18s;
+    }
+    .social:hover { border-color: var(--green); color: var(--green); }
+    .social i { font-size: 16px; }
+
+    /* ── Cursor blink ────────────────────────────────── */
+    .cursor {
+      display: inline-block;
+      width: 9px; height: 15px;
+      background: var(--green);
+      vertical-align: middle;
+      margin-left: 4px;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* ── Responsive ──────────────────────────────────── */
+    @media (max-width: 600px) {
+      .terminal-body { padding: 16px 16px 20px; }
+      .ascii { font-size: 7.5px; }
+      .skills-grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+<main class="readme">
+  <div class="terminal">
+
+    <!-- title bar -->
+    <div class="terminal-bar">
+      <div class="dot dot-r"></div>
+      <div class="dot dot-y"></div>
+      <div class="dot dot-g"></div>
+      <span class="bar-title">khuwe@redreaper:~$ whoami</span>
+    </div>
+
+    <div class="terminal-body">
+
+      <!-- ASCII header -->
+      <div class="ascii"> _  __ _                               ____            _ ____
+| |/ /| |__  _   _ __      __ ___   |  _ \ ___  __| |  _ \ ___  __ _ _ __   ___ _ __
+| ' / | '_ \| | | |\ \ /\ / // _ \  | |_) / _ \/ _` | |_) / _ \/ _` | '_ \ / _ \ '__|
+| . \ | | | | |_| | \ V  V /|  __/  |  _ <  __/ (_| |  _ <  __/ (_| | |_) |  __/ |
+|_|\_\|_| |_|\__,_|  \_/\_/  \___|  |_| \_\___|\__,_|_| \_\___|\__,_| .__/ \___|_|
+                                                                       |_|
+  Offensive Security · MSSP Architecture · Fortinet · Southern Africa</div>
+
+      <!-- Profile -->
+      <div class="prompt-line">
+        <span class="pu">khuwe</span><span class="pm">@</span><span class="ph">redreaper</span><span class="pm">:</span><span class="pp">~/profile</span><span class="pm">$</span>
+        <span class="pc">cat identity.json</span>
+      </div>
+      <div class="output">
+        <div class="out-row"><span class="out-icon">🔒</span><span class="out-val"><span class="g">Onalethata Lesley Khuwe</span> — Cybersecurity Engineer &amp; Offensive Security Practitioner</span></div>
+        <div class="out-row"><span class="out-icon">📍</span><span class="out-val">Gaborone, Botswana &nbsp;·&nbsp; <span class="a">ROI / Blue Pearl Communications Pty Ltd</span></span></div>
+        <div class="out-row"><span class="out-icon">🎓</span><span class="out-val">BSc (Hons) Network Systems Engineering — University of Sunderland</span></div>
+        <div class="out-row"><span class="out-icon">🏅</span><span class="out-val"><span class="b">NSE7 Certified</span> &nbsp;|&nbsp; Pursuing <span class="p">CRTA</span> (Certified Red Team Analyst)</span></div>
+        <div class="out-row"><span class="out-icon">⚡</span><span class="out-val">Reduced SOC client onboarding time by <span class="g">50%+</span> through end-to-end workflow automation</span></div>
+      </div>
+
+      <hr />
+
+      <!-- Current status -->
+      <div class="prompt-line">
+        <span class="pu">khuwe</span><span class="pm">@</span><span class="ph">redreaper</span><span class="pm">:</span><span class="pp">~/status</span><span class="pm">$</span>
+        <span class="pc">tail -n 4 current.log</span>
+      </div>
+      <div class="output">
+        <div class="out-row"><span class="out-icon">🔭</span><span class="out-val"><span class="a">Working on:</span> MSSP Security Lab — Proxmox · FortiGate 60F · Wazuh SIEM · Windows Server 2022 AD · Kali Linux — client-facing demo platform for managed security services</span></div>
+        <div class="out-row"><span class="out-icon">🌱</span><span class="out-val"><span class="a">Learning:</span> Red team tradecraft via <span class="p">CRTA</span> — attack-path validation, pentest methodology &amp; adversarial simulation</span></div>
+        <div class="out-row"><span class="out-icon">🤝</span><span class="out-val"><span class="a">Open to:</span> MSSP architecture, Fortinet / Check Point solution design, offensive security lab collabs</span></div>
+        <div class="out-row"><span class="out-icon">💬</span><span class="out-val"><span class="a">Ask me about:</span> SOC ops · NodeZero autonomous assessments · Fortinet/Check Point architecture · technical pre-sales</span></div>
+      </div>
+
+      <hr />
+
+      <!-- Arsenal -->
+      <div class="prompt-line">
+        <span class="pu">khuwe</span><span class="pm">@</span><span class="ph">redreaper</span><span class="pm">:</span><span class="pp">~/arsenal</span><span class="pm">$</span>
+        <span class="pc">ls --category --all</span>
+      </div>
+
+      <div class="skills-grid">
+        <div class="skill-block">
+          <div class="skill-cat g">// Offensive</div>
+          <div class="tags">
+            <span class="tag tag-g">Kali Linux</span>
+            <span class="tag tag-g">Metasploit</span>
+            <span class="tag tag-g">NodeZero</span>
+            <span class="tag tag-g">Nmap</span>
+            <span class="tag tag-g">Nikto</span>
+            <span class="tag tag-g">CRTA (WIP)</span>
+            <span class="tag tag-g">Greenbone CE</span>
+          </div>
+        </div>
+
+        <div class="skill-block">
+          <div class="skill-cat b">// SIEM &amp; Defensive</div>
+          <div class="tags">
+            <span class="tag tag-b">Wazuh</span>
+            <span class="tag tag-b">FortiSIEM</span>
+            <span class="tag tag-b">FortiAnalyzer</span>
+            <span class="tag tag-b">DefectDojo</span>
+            <span class="tag tag-b">Lynis</span>
+            <span class="tag tag-b">SOC Operations</span>
+          </div>
+        </div>
+
+        <div class="skill-block">
+          <div class="skill-cat a">// Infrastructure</div>
+          <div class="tags">
+            <span class="tag tag-a">Proxmox</span>
+            <span class="tag tag-a">FortiGate</span>
+            <span class="tag tag-a">Check Point</span>
+            <span class="tag tag-a">Tailscale VPN</span>
+            <span class="tag tag-a">Windows AD</span>
+            <span class="tag tag-a">HP ProCurve</span>
+          </div>
+        </div>
+
+        <div class="skill-block">
+          <div class="skill-cat p">// GRC &amp; MSSP</div>
+          <div class="tags">
+            <span class="tag tag-p">ISO 27001</span>
+            <span class="tag tag-p">MSSP Design</span>
+            <span class="tag tag-p">Securden PAM</span>
+            <span class="tag tag-p">Risk Management</span>
+            <span class="tag tag-p">Tender Prep</span>
+            <span class="tag tag-p">Pre-Sales</span>
+          </div>
+        </div>
+      </div>
+
+      <hr />
+
+      <!-- Fun fact -->
+      <div class="prompt-line">
+        <span class="pu">khuwe</span><span class="pm">@</span><span class="ph">redreaper</span><span class="pm">:</span><span class="pp">~/misc</span><span class="pm">$</span>
+        <span class="pc">cat fun_fact.txt</span>
+      </div>
+      <div class="output">
+        <div class="out-row">
+          <span class="out-icon">🎯</span>
+          <span class="out-val">I cut SOC client onboarding time by <span class="g">50%+</span> just by automating the parts everyone hated doing manually — because manual processes are just unwritten vulnerabilities.</span>
+        </div>
+      </div>
+
+      <hr />
+
+      <!-- Socials -->
+      <div class="prompt-line">
+        <span class="pu">khuwe</span><span class="pm">@</span><span class="ph">redreaper</span><span class="pm">:</span><span class="pp">~/connect</span><span class="pm">$</span>
+        <span class="pc">./reach_out.sh</span>
+      </div>
+
+      <div class="socials">
+        <a class="social" href="https://www.linkedin.com/in/onalethata-lesley-khuwe-203614223" target="_blank" rel="noopener">
+          <i class="ti ti-brand-linkedin"></i> LinkedIn
+        </a>
+        <a class="social" href="https://khuwe-redreaper.github.io" target="_blank" rel="noopener">
+          <i class="ti ti-world"></i> Portfolio
+        </a>
+        <a class="social" href="https://github.com/Khuwe-RedReaper" target="_blank" rel="noopener">
+          <i class="ti ti-brand-github"></i> GitHub
+        </a>
+        <a class="social" href="mailto:YOUR_EMAIL_HERE">
+          <i class="ti ti-mail"></i> Email
+        </a>
+      </div>
+
+      <!-- Cursor -->
+      <div style="margin-top: 24px; font-size: 13px; color: var(--muted);">
+        <span class="g">❯</span>&nbsp;<span class="cursor"></span>
+      </div>
+
+    </div><!-- /terminal-body -->
+  </div><!-- /terminal -->
+</main>
+</body>
+</html>
